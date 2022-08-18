@@ -1,4 +1,4 @@
-import { Button } from "antd";
+import Button from "../../../../components/Button";
 import { useHeader } from "./useHeader";
 
 import "../../../../styles/main.module.scss"
